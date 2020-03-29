@@ -4,6 +4,9 @@
 I started my career as a mobile engineer, then I switch to the full-stack and finally I focus on the backend side. 
 My most experienced languages are Java and Golang, although I've written fair amounts of code in Python, Ruby, and Javascript over the years. 
 
+Just for fun, here is my [dotfile](https://github.com/hqt/dotfile) with VIM configurations. Although I don't heavily use VIM on recent days but switching to other IDEs with VIM binding instead.
+Some plugin recommendations are [[1]](https://plugins.jetbrains.com/plugin/164-ideavim)[[2]](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)[[3]](https://pqrs.org/osx/karabiner/)
+
 ## Social Information
 - [StackOverFlow](https://stackoverflow.com/users/1192728/hqt)
 - [Medium Blog](https://medium.com/@huynhquangthao)
@@ -23,7 +26,7 @@ Here are some presentations divided by topics.
  
 ### Kotlin
 I started to speak about Kotlin language from 2018.
-- [Concurrency Pattern in Kotlin](https://www.slideshare.net/hqt/concurrency-pattern-in-kotlin)
+- [Concurrency Patterns in Kotlin](https://www.slideshare.net/hqt/concurrency-pattern-in-kotlin)
 
 ### Android
 - [Reverse Engineering all-in-one](https://www.slideshare.net/hqt/android-reverse-engineering-75297033)
@@ -41,7 +44,7 @@ I am maintaining a personal blog on the Medium site with many topics about engin
 - [MySQL: Testing Isolation stuff](https://medium.com/@huynhquangthao/mysql-testing-isolation-levels-650a0d0fae75)
 
 ### Java
-- [Garbage Collector](https://medium.com/@huynhquangthao/garbage-collector-101-d66a192e5fd2)
+- [Garbage Collector overview](https://medium.com/@huynhquangthao/garbage-collector-101-d66a192e5fd2)
 - [Singleton Design Pattern](https://blog.androidcafe.in/singleton-design-pattern-2c63dfcfccf2)
 
 ### Android
@@ -64,8 +67,10 @@ I have answered over hundreds of questions. However, some answers that I especia
 
 ## Book recommendations
 Here are some great books that I have read and I always strongly recommend for people around me. Those books are timeless.
-- [Design data intensive application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [Database internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347)
 - [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 - [High performance in MySQL](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
+- [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
+- [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH)
 
