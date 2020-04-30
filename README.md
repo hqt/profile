@@ -39,6 +39,7 @@ I started to speak about Kotlin language from 2018.
 I am maintaining a personal blog on the Medium site with many topics about engineering, design patterns, Android, ...
 
 ### General stuffs
+- [Linux: Development history of large-memory allocation](https://medium.com/@huynhquangthao/linux-large-memory-allocation-history-570730b09c95)
 - [1 week of debugging Kafka](https://medium.com/@huynhquangthao/1-week-debugging-the-kafka-adventure-b18ac1d66507)
 - [How does the Docker DNS work](https://medium.com/@huynhquangthao/how-does-the-docker-dns-work-ab69bde4c82a)
 - [MySQL: Testing Isolation stuff](https://medium.com/@huynhquangthao/mysql-testing-isolation-levels-650a0d0fae75)
